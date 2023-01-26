@@ -1,16 +1,25 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    </head>
+    
+<body>    
+<h1> Hi there, i am Maercio Mamedes 👋</h1>
 
-<!--
-**MaercioMamedes/MaercioMamedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>here are some things about me:</h2>
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Django Rest Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MaercioMamedes&show_icons=true&theme=algolia" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaercioMamedes&layout=compact&show_icons=true&theme=algolia" />
+</div>
+   
+
+  
+                                      
+          
+</div>
+</body>
+</html>
